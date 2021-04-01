@@ -1,6 +1,6 @@
 import java.util.stream.IntStream;
 
-public class skippingwork {
+public class SkippingWork {
     public static int solution(int[] x, int[] y) {
         for (int numberToMatch : x) {
             boolean contains = IntStream.of(y).anyMatch(j -> j == numberToMatch);
