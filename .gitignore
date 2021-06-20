@@ -5,3 +5,4 @@ src/.vscode/settings.json
 .idea/
 out/
 venv/
+foobar.iml
