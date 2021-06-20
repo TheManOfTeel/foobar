@@ -1,5 +1,4 @@
-# foobar 2021
-Google foobar 2021 Challenge
+# foobar with Google 2021 Challenge
 
 ## Challenges
 ### Level 1
