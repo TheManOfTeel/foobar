@@ -1,4 +1,4 @@
-# Find the number of luckky triples in the list
+# Find the number of lucky triples in the list
 def solution(l):
     c = [0] * len(l)
     count = 0
