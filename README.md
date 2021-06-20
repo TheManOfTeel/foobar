@@ -1,7 +1,7 @@
 # foobar with Google 2021 Challenge
 
 ## Challenges
-### [Level 1](../src/Level 1/SkippingWork.md)
+### Level 1
 #### Challenge 1: Skipping Work
 
 ### Level 2
