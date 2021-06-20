@@ -2,3 +2,6 @@
 .DS_Store
 src/.vscode/settings.json
 .vscode/settings.json
+.idea/
+out/
+venv/
