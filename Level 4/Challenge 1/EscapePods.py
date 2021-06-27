@@ -1,5 +1,5 @@
 # This is a flow network problem that utilizes Dinic's Algorithm to compute the maximum flow in the network
-# An alternate approach can use the Ford Fulkerson Method
+# An alternate approach can use the Ford-Fulkerson Method but it will take more time to run
 def solution(entrances, exits, path):
     max_val = sum(list(map(sum, path)))
     level_graph = []
