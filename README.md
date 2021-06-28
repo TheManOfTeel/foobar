@@ -8,7 +8,7 @@
 ## Level 3
   1. [Find the Access Codes](level-3/challenge-1/find-the-access-codes.md)
   1. [Bomb, Baby!](level-3/challenge-2/bomb-baby.md)
-  1. [Doomsday Fuel](level-3/challeng-3/doomsday-fuel.md)
+  1. [Doomsday Fuel](level-3/challenge-3/doomsday-fuel.md)
 ## Level 4
   1. [Escape Pods](level-4/challenge-1/escape-pods.md)
   1. [Bringing a Gun to a Trainer Fight](level-4/challenge-2/bringing-a-gun-to-a-trainer-fight.md)
