@@ -1,6 +1,5 @@
-def solution():
+def solution(g):
     return 0
-
 
 # Test function
 def main():
