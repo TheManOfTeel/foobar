@@ -3,7 +3,7 @@
 ## Level 1
   1. [Skipping Work](Level%201/Challenge%201/skipping-work.md)
 ## Level 2
-  1. [Numbers Station Coded Messages](Level%202/Challenge%201/number-station-coded-messages.md)
+  1. [Numbers Station Coded Messages](Level%202/Challenge%201/numbers-station-coded-messages.md)
   1. [Please Pass the Coded Messages](Level%202/Challenge%202/please-pass-the-coded-messages.md)
 ## Level 3
   1. [Find the Access Codes](Level%203/Challenge%201/find-the-access-codes.md)
