@@ -1,7 +1,7 @@
 # foobar with Google 2021 Challenge
 
 ## Level 1
-  1. Skipping Work
+  1. [Skipping Work](skipping-work.md)
 ## Level 2
   1. Numbers Station Coded Messages
   1. Please Pass the Coded Messages
