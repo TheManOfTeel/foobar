@@ -1,6 +1,5 @@
 from itertools import combinations
 
-
 # Find largest number divisible by 3
 def solution(l):
     l.sort(reverse=True)
@@ -10,11 +9,9 @@ def solution(l):
                 return int(''.join(map(str, tup)))
     return 0
 
-
 # Test function
 def main():
     print(solution([3, 1, 4, 1, 5, 9]))
-
 
 # Run test
 main()
