@@ -1,5 +1,5 @@
 # foobar with Google 2021 Challenge
-
+![alt text](foobar-victory.png?raw=true)
 ## Level 1
   1. [Skipping Work](level-1/challenge-1/skipping-work.md)
 ## Level 2
